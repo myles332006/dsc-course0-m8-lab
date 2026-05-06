@@ -31,9 +31,10 @@ Showed:
 Consistency vs variability in safety
 
 # Key Factors Investigated
-1) Weather Conditions
+1) Weather Conditions:
 
 Poor weather (IMC) → higher injury and destruction rates, 
+
 Clear weather (VMC) → lower severity
 
 
