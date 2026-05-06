@@ -32,8 +32,8 @@ Consistency vs variability in safety
 
 # Key Factors Investigated
 1) Weather Conditions
-Poor weather (IMC) → higher injury and destruction rates
-Clear weather (VMC) → lower severity
+-Poor weather (IMC) → higher injury and destruction rates
+-Clear weather (VMC) → lower severity
 
 
 2) Phase of Flight
