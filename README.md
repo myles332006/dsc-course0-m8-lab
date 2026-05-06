@@ -2,10 +2,10 @@
 
 This project analyzes aviation accident data to evaluate aircraft safety with a focus on:
 
--Fatal and serious injury rates
--Aircraft destruction rates
--Differences across aircraft types (small vs large)
--Impact of operational and environmental factors
+Fatal and serious injury rates,
+Aircraft destruction rates,
+Differences across aircraft types (small vs large),
+Impact of operational and environmental factors,
 
 The goal is to provide data-driven recommendations to an airline/insurance client on safer aircraft makes and models.
 
