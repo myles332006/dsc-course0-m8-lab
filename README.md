@@ -12,53 +12,53 @@ The goal is to provide data-driven recommendations to an airline/insurance clien
 # EXPLORATORY DATA ANALYSIS
 1) Aircraft Makes Analysis
 Identified top manufacturers with:
-   - Lowest injury rates
-   - Lowest destruction rates
-   - Compared small vs large aircraft
+    Lowest injury rates,
+    Lowest destruction rates,
+    Compared small vs large aircraft
 
 2. Plane-Type Analysis (Make + Model)
 Evaluated safety at a more granular level
 Highlighted:
- -Safest aircraft models
- -Variability in outcomes
+ Safest aircraft models,
+ Variability in outcomes
 
 3. Distribution Analysis
 Used:
-  -Violin plots (small aircraft)
-  -Strip plots (large aircraft)
+   Violin plots (small aircraft),
+   Strip plots (large aircraft)
 
 Showed:
 Consistency vs variability in safety
 
 # Key Factors Investigated
 1) Weather Conditions
--Poor weather (IMC) → higher injury and destruction rates
--Clear weather (VMC) → lower severity
+Poor weather (IMC) → higher injury and destruction rates, 
+Clear weather (VMC) → lower severity
 
 
 2) Phase of Flight
 Highest risk:
-  -Takeoff
-  -Landing
-  -Approach
+   Takeoff,
+   Landing,
+   Approach
 
 Lowest risk:
-  -Cruise
-  -Taxi
+  Cruise,
+  Taxi
 
 # Key Findings
-1) Large aircraft are significantly safer
- -Lower injury fractions
- -More consistent outcomes
+1) Large aircraft are significantly safer:
+ Lower injury fractions,
+ More consistent outcomes
 
-2) Small aircraft show higher variability
-   -More sensitive to external factors
+2) Small aircraft show higher variability:
+   More sensitive to external factors
 
-3) Certain makes/models consistently outperform others
-  -Low average injury + low variability
+3) Certain makes/models consistently outperform others:
+   Low average injury + low variability
 
-4) Operational factors matter
-  -Weather and flight phase strongly influence accident severity
+4) Operational factors matter:
+   Weather and flight phase strongly influence accident severity
 
 
 
